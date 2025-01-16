@@ -1,0 +1,9 @@
+log_config:
+  level: some_level
+  is_development: false
+logging:
+  level: debug
+custom_config:
+  level: some_custom_level
+  is_development: false
+  environment: test
